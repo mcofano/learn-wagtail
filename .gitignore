@@ -3,6 +3,7 @@
 *.egg*
 local.py
 .mypy_cache
+.idea/
 
 # Temporary files
 *.swp
